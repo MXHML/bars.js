@@ -14,7 +14,11 @@ As hard as I tried to keep bars.js in vanilla JS, I eventually figured using jQu
 
 >(NOTE, you do NOT necessarily have to use the same version of jQuery, so long as whatever version you use supports some basic jQuery functions.)
 
-1) In your HTML code, create a <canvas> element with the ID "barsJs-canvas" ```<canvas id="barsJs-canvas"></canvas>```
+1) In your HTML code, create a <canvas> element with the ID "barsJs-canvas" 
+
+```
+<canvas id="barsJs-canvas"></canvas>
+```
 
 2) AFTER your link to jQuery, link bars.js.
 
